@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\ArchiveApp.DataAccess.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\ArchiveApp.DataAccess.pdb
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\ArchiveApp.Models.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\ArchiveApp.Models.pdb
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.csproj.CopyComplete
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.pdb
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.Migrations.Fix.resources
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.DataAccess\obj\Debug\ArchiveApp.DataAccess.csproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\bin\Debug\ArchiveApp.Models.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\bin\Debug\ArchiveApp.Models.pdb
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\obj\Debug\ArchiveApp.Models.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\obj\Debug\ArchiveApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\obj\Debug\ArchiveApp.Models.dll
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp.Models\obj\Debug\ArchiveApp.Models.pdb

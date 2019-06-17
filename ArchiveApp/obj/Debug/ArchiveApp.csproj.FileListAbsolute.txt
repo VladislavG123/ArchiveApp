@@ -1,0 +1,10 @@
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\bin\Debug\ArchiveApp.exe.config
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\bin\Debug\ArchiveApp.exe
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\bin\Debug\ArchiveApp.pdb
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.loginForm.resources
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.Properties.Resources.resources
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.exe
+C:\Users\Vlad\source\repos\ArchiveApp\ArchiveApp\obj\Debug\ArchiveApp.pdb
